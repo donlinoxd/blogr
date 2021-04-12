@@ -261,7 +261,8 @@ img.active {
   text-align: center;
   line-height: 1.8;
 }
-.illustrations:not(.section2 > .illustrations) img:last-child {
+.section1 .illustrations img:last-child,
+.section3 .illustrations img:last-child {
   display: none;
 }
 .illustrations {
@@ -552,10 +553,12 @@ footer ul li a {
   .section div p {
     text-align: left;
   }
-  .illustrations:not(.section2 > .illustrations) img:last-child {
+  .section1 .illustrations img:last-child,
+  .section3 .illustrations img:last-child {
     display: block;
   }
-  .illustrations:not(.section2 > .illustrations) img:first-child {
+  .section1 .illustrations img:first-child,
+  .section3 .illustrations img:first-child {
     display: none;
   }
   .section1 .illustrations {
