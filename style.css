@@ -515,6 +515,9 @@ footer ul li a {
   .nav-links-active {
     transform: none;
   }
+  .title h1 {
+    font-size: 3.45rem;
+  }
 
   /* ------SECTIONS------- */
   .section:not(.section2) {
