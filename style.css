@@ -92,6 +92,10 @@ header {
   margin: 0.75rem;
   font-weight: 700;
 }
+.nav-sublink-active > .nav-sublink a {
+  text-decoration: none;
+  color: var(--very-dark-grayish-blue);
+}
 img[alt="Arrow Icon"] {
   width: 15px;
   transition: transform 0.3s;
