@@ -1,5 +1,7 @@
-# frontend-mentor-challenges
+# http://blogr.donlino.guru
 
-# This repository is just for taking code challenges in Frontend Mentor
-
-# All projects design here are from frontendmentor.io
+frontend-mentor-challenges
+All projects design here are from frontendmentor.io
+Tech Used: 
+- Native CSS
+- Vanilla JS
