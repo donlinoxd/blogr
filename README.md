@@ -1,4 +1,3 @@
-# http://blogr.donlino.guru
 
 frontend-mentor-challenges
 All projects design here are from frontendmentor.io
